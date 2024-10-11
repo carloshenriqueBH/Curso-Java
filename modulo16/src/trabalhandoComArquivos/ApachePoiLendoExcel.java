@@ -45,7 +45,7 @@ public class ApachePoiLendoExcel {
 					break;
 				case 2:
 					pessoa.setIdade(Double.valueOf(cell.getNumericCellValue()).intValue());
-					break;
+					break;  					
 				}
 			}
 			pessoas.add(pessoa);
