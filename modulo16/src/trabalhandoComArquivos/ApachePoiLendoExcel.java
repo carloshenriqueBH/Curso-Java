@@ -27,9 +27,9 @@ public class ApachePoiLendoExcel {
 		List<Pessoa> pessoas = new ArrayList<Pessoa>();
 		
 		
-		
+		/* vai percorrer todas as linhas do arquivo excel */
 		while (linhaIterator.hasNext()) {
-			Row linha = linhaIterator.next();
+			Row linha = linhaIterator.next();   /* dados de uma pessoa - cada pessoa = uma linha */
 			Iterator<Cell> celulas = linha.iterator();
 			
 			Pessoa pessoa = new Pessoa();
