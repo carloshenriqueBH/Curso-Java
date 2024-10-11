@@ -21,13 +21,16 @@ public class ApachePoiEditandoPlanilhla {
 		HSSFWorkbook hssFWorkBook = new HSSFWorkbook(entrada);
 		HSSFSheet planilha = hssFWorkBook.getSheetAt(0);
 		Iterator<Row> linhaIterator = planilha.iterator();
+		
 		/* Percorre todas as linhas da planilha */
+		
 		while(linhaIterator.hasNext()) {
 			Row linha = linhaIterator.next(); /* dados de uma pessoa na linha */
 			int numeroCelulas =  linha.getPhysicalNumberOfCells(); /* quantidade de células na planilha */
 			Cell cell = linha.createCell(numeroCelulas); /* cria nova célula à direita */
 			cell.setCellValue("4.237,80");			
 		}
+		
 		entrada.close();
  		
 		FileOutputStream saida = new FileOutputStream(file);
