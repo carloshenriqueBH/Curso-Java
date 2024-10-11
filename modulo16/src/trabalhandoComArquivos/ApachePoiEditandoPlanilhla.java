@@ -16,6 +16,7 @@ public class ApachePoiEditandoPlanilhla {
 	public static void main(String[] args) throws IOException {
 		
 		File file = new File("C:\\TRABALHO\\PROJETOS\\JAVA\\modulo16\\src\\ARQUIVO_EXCEL3.XLS");
+		String texto = "adfasdfadsf";
 		
 		FileInputStream entrada = new FileInputStream(file);
 		HSSFWorkbook hssFWorkBook = new HSSFWorkbook(entrada);
