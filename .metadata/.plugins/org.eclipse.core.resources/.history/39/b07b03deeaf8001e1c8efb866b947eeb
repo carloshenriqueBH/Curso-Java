@@ -1,0 +1,5 @@
+package com.programacaoweb.portfolio.entities;
+
+public class Users {
+
+}

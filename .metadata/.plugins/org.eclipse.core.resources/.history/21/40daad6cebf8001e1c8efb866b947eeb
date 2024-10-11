@@ -1,0 +1,5 @@
+package com.programacaoweb.portfolio.resources;
+
+public class UserResource {
+
+}

@@ -1,0 +1,5 @@
+package com.programacaoweb.portfolio.services.exceptions;
+
+public class DatabaseException {
+
+}

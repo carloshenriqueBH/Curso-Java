@@ -1,0 +1,235 @@
+2024-04-12 13:34:30,259 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 13:34:56,073 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.programacaoweb:portfolio:0.0.1-SNAPSHOT @ C:\TRABALHO\PROJETOS\JAVA\portfolio\pom.xml.
+2024-04-12 13:34:57,297 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio/src/main/java
+2024-04-12 13:34:57,298 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio/src/main/resources
+2024-04-12 13:34:57,302 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio/src/main/resources
+2024-04-12 13:34:57,309 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /portfolio/src/test/java
+2024-04-12 13:34:57,309 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /portfolio/src/test/resources
+2024-04-12 13:34:58,212 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-04-12 13:34:59,498 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:34:59,525 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:34:59,535 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:36:22,785 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:36:22,792 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:36:22,798 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:36:52,854 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:36:52,861 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:36:52,866 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:37:24,654 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:37:24,662 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:37:24,666 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:38:28,518 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:38:28,525 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:38:28,529 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:38:51,899 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-12 13:38:51,980 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@7da42c09{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@69ae6229{STARTED}}
+2024-04-12 13:38:51,981 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-12 13:38:52,032 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75937a54{HTTP/1.1, (http/1.1)}{127.0.0.1:53272}
+2024-04-12 13:38:52,043 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@46c38752{STARTING}[12.0.3,sto=0] @271572ms
+2024-04-12 13:40:52,094 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:40:52,099 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:40:52,102 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:43:48,071 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.programacaoweb:portfolio:0.0.1-SNAPSHOT @ C:\TRABALHO\PROJETOS\JAVA\portfolio\pom.xml.
+2024-04-12 13:43:49,066 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:43:49,068 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:43:49,074 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:45:34,327 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:45:34,346 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:45:34,350 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:49:33,422 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:49:33,424 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:49:33,427 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:53:16,221 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-12 13:53:16,228 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 13:53:16,232 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 13:54:02,290 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@46c38752{STOPPING}[12.0.3,sto=0]
+2024-04-12 13:54:02,294 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@75937a54{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-12 13:54:17,519 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 14:01:11,280 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 14:01:11,305 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 14:01:11,312 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 14:01:18,594 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-12 14:01:18,664 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@79dc1c6e{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@7e620a48{STARTED}}
+2024-04-12 14:01:18,665 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-12 14:01:18,723 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@11077e83{HTTP/1.1, (http/1.1)}{127.0.0.1:53558}
+2024-04-12 14:01:18,749 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@3e73ec2a{STARTING}[12.0.3,sto=0] @433557ms
+2024-04-12 14:07:51,731 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 14:07:51,742 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 14:07:51,747 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 14:22:57,654 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 14:22:57,669 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 14:22:57,673 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 14:31:04,283 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 14:31:04,294 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 14:31:04,299 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 14:34:53,349 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 14:34:53,389 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 14:34:53,396 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 14:44:11,246 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 14:44:11,281 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 14:44:11,289 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 14:55:04,452 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 14:55:04,477 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 14:55:04,482 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 15:02:51,259 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 15:02:51,273 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 15:02:51,283 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 15:04:39,627 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 15:04:39,637 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 15:04:39,642 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 15:07:22,737 [Worker-46: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 15:07:22,747 [Worker-46: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 15:07:22,752 [Worker-46: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 15:15:45,318 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@3e73ec2a{STOPPING}[12.0.3,sto=0]
+2024-04-12 15:15:45,322 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@11077e83{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-12 15:23:36,997 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 15:27:31,325 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 15:27:31,358 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 15:27:31,366 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 15:51:01,317 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 16:06:18,694 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-12 16:11:16,424 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-12 16:11:16,496 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@21aedd9a{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@5a62032e{STARTED}}
+2024-04-12 16:11:16,496 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-12 16:11:16,534 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7615cb63{HTTP/1.1, (http/1.1)}{127.0.0.1:50792}
+2024-04-12 16:11:16,553 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@26c0a32b{STARTING}[12.0.3,sto=0] @333506ms
+2024-04-12 16:11:30,686 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 16:11:30,713 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 16:11:30,720 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 16:26:09,099 [Worker-19: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 16:26:09,110 [Worker-19: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 16:26:09,116 [Worker-19: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 16:26:57,170 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-12 16:26:57,181 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-12 16:26:57,188 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-12 16:58:06,605 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@26c0a32b{STOPPING}[12.0.3,sto=0]
+2024-04-12 16:58:06,609 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7615cb63{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-13 08:24:11,778 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 08:24:40,212 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 08:24:40,245 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 08:24:40,253 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 08:48:17,435 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-13 08:48:17,503 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@173de58e{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@701892de{STARTED}}
+2024-04-13 08:48:17,504 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-13 08:48:17,545 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5519cd66{HTTP/1.1, (http/1.1)}{127.0.0.1:50382}
+2024-04-13 08:48:17,566 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@259dfbe1{STARTING}[12.0.3,sto=0] @1539716ms
+2024-04-13 08:48:21,877 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 08:48:21,903 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 08:48:21,909 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 08:52:03,196 [Worker-11: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 08:52:03,208 [Worker-11: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 08:52:03,215 [Worker-11: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 09:03:44,648 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 09:03:44,660 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:03:44,665 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 09:05:50,733 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@259dfbe1{STOPPING}[12.0.3,sto=0]
+2024-04-13 09:05:50,736 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5519cd66{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-13 09:06:27,705 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 09:06:43,272 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-13 09:06:43,364 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6d09034c{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@467231e8{STARTED}}
+2024-04-13 09:06:43,365 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-13 09:06:43,416 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@567469e5{HTTP/1.1, (http/1.1)}{127.0.0.1:50602}
+2024-04-13 09:06:43,442 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@1fbc5eef{STARTING}[12.0.3,sto=0] @49335ms
+2024-04-13 09:14:15,064 [Worker-7: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 09:14:15,089 [Worker-7: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:14:15,098 [Worker-7: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 09:26:16,470 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 09:26:16,482 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:26:16,487 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 09:28:03,909 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 09:28:03,919 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:28:03,925 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 09:47:28,946 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 09:47:28,965 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:47:28,970 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 09:47:59,515 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@1fbc5eef{STOPPING}[12.0.3,sto=0]
+2024-04-13 09:47:59,518 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@567469e5{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-13 09:48:47,279 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 09:49:54,502 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-13 09:49:54,595 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@b5272ad{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@4b1238c9{STARTED}}
+2024-04-13 09:49:54,596 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-13 09:49:54,642 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@a5dfbf4{HTTP/1.1, (http/1.1)}{127.0.0.1:51050}
+2024-04-13 09:49:54,669 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2ac1157e{STARTING}[12.0.3,sto=0] @109108ms
+2024-04-13 09:59:07,129 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 09:59:07,169 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 09:59:07,176 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:00:58,134 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:00:58,164 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:00:58,172 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:02:58,748 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:02:58,763 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:02:58,769 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:17:15,288 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:17:15,304 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:17:15,309 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:21:16,512 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:21:16,524 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:21:16,529 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:28:27,871 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:28:27,883 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:28:27,887 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:28:29,845 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@2ac1157e{STOPPING}[12.0.3,sto=0]
+2024-04-13 10:28:29,848 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@a5dfbf4{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-13 10:28:54,377 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-13 10:32:00,776 [Worker-10: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:32:00,805 [Worker-10: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:32:00,811 [Worker-10: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:33:05,430 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:33:05,443 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:33:05,449 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:41:10,736 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-13 10:41:10,860 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@466bd7f2{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@7df6e31f{STARTED}}
+2024-04-13 10:41:10,861 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-13 10:41:10,954 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2961b44e{HTTP/1.1, (http/1.1)}{127.0.0.1:51673}
+2024-04-13 10:41:10,978 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@5bcfeedd{STARTING}[12.0.3,sto=0] @749641ms
+2024-04-13 10:45:06,269 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:45:06,280 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:45:06,285 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 10:47:57,322 [Worker-14: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 10:47:57,334 [Worker-14: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 10:47:57,340 [Worker-14: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 11:03:14,353 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 11:03:14,391 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 11:03:14,435 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 11:03:46,788 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 11:03:46,800 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 11:03:46,805 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 11:13:25,249 [Worker-25: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 11:13:25,274 [Worker-25: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 11:13:25,279 [Worker-25: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 11:21:18,948 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-13 11:21:18,961 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 11:21:18,966 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-13 11:22:44,034 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@5bcfeedd{STOPPING}[12.0.3,sto=0]
+2024-04-13 11:22:44,039 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2961b44e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-15 10:47:34,765 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-15 10:54:13,474 [Worker-4: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-15 10:54:13,511 [Worker-4: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-15 10:54:13,519 [Worker-4: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-15 11:04:26,843 [Worker-20: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-15 11:04:26,876 [Worker-20: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-15 11:04:26,898 [Worker-20: Launching portfolio - PortfolioApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-15 11:17:18,743 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-15 11:17:18,756 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-15 11:17:18,760 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-15 11:21:30,084 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+7
+2024-04-15 11:21:30,158 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@50020ce3{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@1ce88705{STARTED}}
+2024-04-15 11:21:30,159 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-04-15 11:21:30,193 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@55572848{HTTP/1.1, (http/1.1)}{127.0.0.1:51425}
+2024-04-15 11:21:30,215 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@3e1ced2f{STARTING}[12.0.3,sto=0] @2082165ms
+2024-04-15 11:24:49,878 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-15 11:24:49,892 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-15 11:24:49,911 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-15 11:32:27,804 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-15 11:32:27,815 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-15 11:32:27,819 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-15 11:39:10,325 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-15 11:39:10,336 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-15 11:39:10,339 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
+2024-04-15 11:44:10,999 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@3e1ced2f{STOPPING}[12.0.3,sto=0]
+2024-04-15 11:44:11,003 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@55572848{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-04-16 14:29:18,353 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-18 08:55:03,345 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-18 08:58:46,275 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-04-18 08:58:46,298 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-18 08:58:46,304 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TRABALHO\PROJETOS\JAVA\portfolio\src\test\resources
