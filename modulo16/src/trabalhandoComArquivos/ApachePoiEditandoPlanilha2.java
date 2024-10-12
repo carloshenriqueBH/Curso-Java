@@ -11,12 +11,13 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
-public class ApachePoiEditandoPlanilhla {
+public class ApachePoiEditandoPlanilha2 {
 
 	public static void main(String[] args) throws IOException {
 		
 		File file = new File("C:\\TRABALHO\\PROJETOS\\JAVA\\modulo16\\src\\ARQUIVO_EXCEL3.XLS");
-			
+		String texto = "adfasdfadsf";
+		
 		FileInputStream entrada = new FileInputStream(file);
 		HSSFWorkbook hssFWorkBook = new HSSFWorkbook(entrada);
 		HSSFSheet planilha = hssFWorkBook.getSheetAt(0);
@@ -25,12 +26,10 @@ public class ApachePoiEditandoPlanilhla {
 		/* Percorre todas as linhas da planilha */
 		
 		while(linhaIterator.hasNext()) {
-			
 			Row linha = linhaIterator.next(); /* dados de uma pessoa na linha */
-
-			String valorCelula = linha.getCell(0).getStringCellValue();
-			
-			linha.getCell(0).setCellValue(valorCelula +"*********");
+			int numeroCelulas =  linha.getPhysicalNumberOfCells(); /* quantidade de células na planilha */
+			Cell cell = linha.createCell(numeroCelulas); /* cria nova célula à direita */
+			cell.setCellValue("4.237,80");			
 		}
 		
 		entrada.close();
